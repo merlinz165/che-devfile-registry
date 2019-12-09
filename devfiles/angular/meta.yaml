@@ -1,6 +1,0 @@
----
-displayName: NodeJS Angular Web Application
-description: Stack for developing NodeJS Angular Web Application
-tags: ["NodeJS", "Angular", "Alpine"]
-icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
-globalMemoryLimit: 2686Mi
