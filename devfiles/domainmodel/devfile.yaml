@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  generateName: KIT-Palladio-Dmodel-
+  generateName: kit-
 components:
   - alias: theia-editor
     type: cheEditor
