@@ -1,6 +1,11 @@
 apiVersion: 1.0.0
 metadata:
   generateName: kit-
+projects:
+  - name: dmodel-sample
+    source:
+      type: git
+      location: 'https://github.com/merlinz165/dmodel-sample.git'
 components:
   - type: chePlugin
     reference: 'https://raw.githubusercontent.com/merlinz165/domainmodel-devfiles/master/plugins/dmodel-lsp.yaml'
