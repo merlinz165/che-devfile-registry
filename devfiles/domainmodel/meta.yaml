@@ -1,0 +1,6 @@
+---
+displayName: DomainModel Stack
+description: This is a custom stack for Domain Model
+tags: ["Xtext", "DomainModel", "VS"]
+icon: https://ting-zhu.com/pub_data/Pcm-logo-stilisiert.svg
+globalMemoryLimit: 1686Mi

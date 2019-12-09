@@ -1,0 +1,10 @@
+apiVersion: 1.0.0
+metadata:
+  generateName: KIT-Palladio-Dmodel-
+components:
+  - alias: theia-editor
+    type: cheEditor
+    id: eclipse/che-theia/7.3.0
+  - type: chePlugin
+    reference: 'https://raw.githubusercontent.com/merlinz165/domainmodel-devfiles/master/plugins/dmodel-lsp.yaml'
+    alias: vscode-domainmodel
